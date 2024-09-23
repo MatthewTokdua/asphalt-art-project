@@ -19,18 +19,18 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 ## Output:
 
-< Put sketch / Final image here >
+![alt text](image.png)
 
 ## Reflection
 
 1. Describe your project.
 
-   - Write your response here...
+   - My project was supposed to make a purple circle with two other circles inside of the purple circle.
 
 2. What are two things about your project that you are proud of?
 
-   - Write your response here...
+   - Two things that I am proud of in this project is being able to finish it in 32 x 32 and being able to write new methods.
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Write your response here...
+   - If I had more time, I would try to make a new shade of purple to put inside the secodn circle.
